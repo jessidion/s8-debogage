@@ -1,10 +1,17 @@
 .nombre {
     width: 50px;
-    padding : 2px;
-    padding-bottom: 3em;
+    padding : 1rem;
     border: 1px solid black;
     margin: auto;
     vertical-align: center;
+    text-align: center;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.nombres{
+    max-width: 100%;
+    margin-top: 2rem;
 }
 
 .cache {
